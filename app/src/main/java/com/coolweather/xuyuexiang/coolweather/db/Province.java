@@ -1,10 +1,12 @@
 package com.coolweather.xuyuexiang.coolweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by xuyuexiang on 2020/9/25.
  */
 
-public class Province {
+public class Province extends DataSupport {
 
     private int id;
     private String provinceName;
