@@ -9,7 +9,6 @@ import android.os.IBinder;
 import android.os.SystemClock;
 import android.preference.PreferenceManager;
 
-import com.bumptech.glide.util.Util;
 import com.coolweather.xuyuexiang.coolweather.gson.Weather;
 import com.coolweather.xuyuexiang.coolweather.util.HttpUtil;
 import com.coolweather.xuyuexiang.coolweather.util.Utility;
